@@ -19,7 +19,6 @@ export default function Home() {
             Register for access (we promise not to spam)
         </p>
         <FeedbackForm />
-        <!--JokeBlock /-->
       </main>
       <Footer />
     </div>
