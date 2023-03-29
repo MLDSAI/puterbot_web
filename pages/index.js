@@ -19,6 +19,9 @@ export default function Home() {
             Register for access (we promise not to spam)
         </p>
         <FeedbackForm />
+
+        <img src="./puterbot-system.png" />
+
       </main>
       <Footer />
     </div>
