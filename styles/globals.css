@@ -27,3 +27,8 @@ hr {
 #header-logo {
   width: 100px;
 }
+
+#puterbot-system {
+  width: 80%;
+  max-width: 2134px;
+}
