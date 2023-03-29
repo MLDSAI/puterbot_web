@@ -14,7 +14,6 @@ export default function Home() {
 
       <main>
         <Header title="PuterBot: AI-First Process Automation" />
-        <hr />
         <p className="description">
             Register for access (we promise not to spam)
         </p>
