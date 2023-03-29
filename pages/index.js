@@ -19,9 +19,10 @@ export default function Home() {
         </p>
         <FeedbackForm />
 
-        <img src="./puterbot-system.png" id="puterbot-system" />
-
       </main>
+
+      <img src="./puterbot-system.png" id="puterbot-system" />
+
       <Footer />
     </div>
   );
