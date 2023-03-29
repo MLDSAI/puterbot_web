@@ -14,6 +14,9 @@ export default function Home() {
 
       <main>
         <Header title="PuterBot" />
+        <p>
+            An AI-First Process Automation system that learns how to perform repetitive tasks in GUI applications by observing human demonstrations.
+        </p>
         <p className="description">
             Register for access (we promise not to spam)
         </p>
