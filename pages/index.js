@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="PuterBot: AI-First Process Automation" />
+        <Header title="PuterBot" />
         <p className="description">
             Register for access (we promise not to spam)
         </p>
